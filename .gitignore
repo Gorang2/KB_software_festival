@@ -1,0 +1,4 @@
+.venv/
+models/face_exp_model.h5
+models/best_weights.h5
+images
